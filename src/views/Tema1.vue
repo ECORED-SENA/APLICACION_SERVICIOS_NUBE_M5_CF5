@@ -26,7 +26,8 @@
         .cajon.color-secundario.p-4
           p <b>Una máquina virtual (MV)</b> es un software especial que funciona como un contenedor de software donde se incluye un sistema operativo y aplicaciones que funcionan totalmente independientes. <b>De esta forma, un equipo puede tener instaladas varias máquinas virtuales, cada una de las cuales se ejecuta independientemente</b> en un mismo equipo que sirve como host.
       .col-lg-4
-
+        figure.mb-3
+          img(src='@/assets/curso/t1-x1.svg', alt='tres computadores y un servidor conectados')
     p.mb-5  A continuación, se listan varias de las ventajas que se obtiene con la implementación de esquemas de virtualización, según VMWare (s.f.):
 
     .row.justify-content-center.mb-5
