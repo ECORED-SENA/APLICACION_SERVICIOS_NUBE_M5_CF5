@@ -11,7 +11,7 @@
 
       .row.justify-content-center.mb-5
         .col-lg-10
-          .bloque-texto-a.bg-image2.p-4.p-md-5.mb-5 
+          .bloque-texto-a.bg-image2.p-4.p-md-5.mb-5.slideInUp 
             .row.m-0.align-items-center.justify-content-between
               .col-lg-4.mb-4.mb-lg-0
                 h2.mb-0

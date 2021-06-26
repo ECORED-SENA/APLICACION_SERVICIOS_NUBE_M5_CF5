@@ -15,7 +15,7 @@
         .cajon.color-secundario.p-4
           p Para la elaboración de este componente, se abordaron varios autores conocidos en virtualización, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para usarlo por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos, aprendices y lectores en general, <b>que estén interesados en acercarse a asuntos básicos de programación de aplicaciones y servicios para la nube.</b>
       .col-lg-5
-        figure
+        figure.slideInUp
           img(src='@/assets/curso/t0-i1.jpg', alt='usuario frente al computador iniciando sistema operativo Windows')
     
 

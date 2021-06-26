@@ -12,7 +12,7 @@
     p.mb-5  La virtualización de servidores es una implementación en la que <b>un servidor físico (host) se divide mediante software en varios servidores virtuales únicos y aislados,</b> los cuales se visualizan al cliente como servidores independientes. Según VMware (s. f.), este tipo de virtualización tiene las siguientes ventajas clave:
       .row.justify-content-center.mb-5
         .col-lg-8
-          .boxTable
+          .boxTable.slideInUp
             .row.g-0
               .col-lg-5.light-yellow.d-flex.align-items-center
                 .content-box.text-center
@@ -40,7 +40,7 @@
     p.mb-5.text-bold  La virtualización de servidores se puede clasificar en dos tipos:
     .row.mb-5
       .col-lg-6
-        .card.outlined.h-100
+        .card.outlined.h-100.slideInLeft
           .card-body
             .h5.titulo-cuarto  Virtualización completa:
             p.card-text.mb-5 En este tipo de virtualización, <b>se usa el hipervisor,</b> el cual es un software desde el cual se realiza la supervisión y gestión de los recursos físicos y, adicionalmente, se encarga de independizar cada servidor virtual. Sin embargo, el hipervisor requiere recursos para hacer el procesamiento correspondiente, <b>lo que puede afectar el rendimiento general del servidor.</b>
@@ -48,7 +48,7 @@
             figure
               img(src='@/assets/curso/t2-i3.svg', alt='grafico ilustrativo de los componentes de una virtualización completa')
       .col-lg-6    
-        .card.outlined.h-100
+        .card.outlined.h-100.slideInRight
           .card-body
             .h5.titulo-cuarto  Paravirtualización:
             p.card-text.mb-4 En este esquema, cada sistema operativo de los servidores virtuales tiene conocimiento de la existencia de los otros, por ende, el hipervisor se libera un poco de la carga para gestionar los sistemas operativos; adicionalmente, se tienen ventajas como la posibilidad de crear copias de seguridad fácilmente, migraciones más rápidas, mejor utilización del sistema y ahorro de energía. No todos los sistemas operativos son aptos para este proceso, en algunos casos se pueden presentar problemas de compatibilidad de hardware.

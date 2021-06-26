@@ -9,7 +9,7 @@
     .clearfix
     br
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10.slideInUp
         .tarjeta-avatar-b.mb-5.custom-card
           .tarjeta.light-yellow.shadow-box
             .p-4

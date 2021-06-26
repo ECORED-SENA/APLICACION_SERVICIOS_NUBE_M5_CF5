@@ -18,7 +18,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10  
         figcaption.customCaption-bold.mb-2.h5  Esquema de virtualización
-        figure.mb-3
+        figure.mb-3.slideInUp
           img(src='@/assets/curso/t1-i2.svg', alt='Esquema de virtualización entre infraestructura TI, Hypervisor, máquinas virtuales, representación')
     .row.mb-5
       .col-lg-8
