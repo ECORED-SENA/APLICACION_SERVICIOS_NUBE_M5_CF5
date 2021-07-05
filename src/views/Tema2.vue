@@ -73,7 +73,7 @@
     br
     br    
     #t_2_3.titulo-segundo
-      h2 Virtualización a nivel de sistema operativo o basada en contenedores
+      h2 Virtualización de red
     p.mb-5  Consiste en la creación de redes virtuales independientes y separadas, mediante el uso de software sobre redes físicas. Este tipo de virtualización se puede presentar de dos maneras:
     .row.justify-content-center.mb-5
       .col-lg-5

@@ -159,7 +159,7 @@ export default {
     {
       texto:
         'Tipos de virtualización: AlbertoLopez TECH TIPS. (2021). Tipos de virtualización. 10 tipos de virtualización explicadas (de S.O., VDI, VPS, hardware, etc.). YouTube.',
-      tipo: 'Página web',
+      tipo: 'Video',
       link: 'https://youtu.be/LMl2_W7cRME',
     },
     {

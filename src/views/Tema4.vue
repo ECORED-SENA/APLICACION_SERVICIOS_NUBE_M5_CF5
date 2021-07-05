@@ -88,8 +88,8 @@
 
           .row.p-7
             .col-md-6.mb-4.mb-md-0
-              .h3 Interfaz advertencia de red VirtualBox
-              p En algunas ocasiones,  es posible que en los  sistemas operativos Windows se presente o salte  una advertencia de seguridad,  indicando al usuario que se va a  autorizar una instalación de un software de Oracle Corporation. Al momento  que el sistema genere la notificación,  se deberá indicar que se desea instalar para poder continuar.
+              .h3 Interfaz instalación completa VirtualBox
+              p Una vez realizados estos pasos, el proceso de instalación es relativamente rápido. Luego,  se  encontrará una interfaz indicando la finalización de este proceso y la posibilidad de iniciar inmediatamente la ejecución de VirtualBox en la máquina host.
           
             .col-md-6
               figure.w480
@@ -97,21 +97,21 @@
 
           .row.p-7
             .col-md-5.mb-4.mb-md-0
-              .h3 Interfaz advertencia de red VirtualBox
-              p En algunas ocasiones,  es posible que en los  sistemas operativos Windows se presente o salte  una advertencia de seguridad,  indicando al usuario que se va a  autorizar una instalación de un software de Oracle Corporation. Al momento  que el sistema genere la notificación,  se deberá indicar que se desea instalar para poder continuar.
+              .h3 Interfaz VirtualBox
+              p La herramienta de virtualización ha sido instalada. ¡Ahora la puedes utilizar! 
           
             .col-md-7
               figure
                 img.w620.shadow-box(src='@/assets/curso/Figura8A.jpg', alt='Texto que describa la imagen')
     
     .main-wrap.p-4.p-md-5
-      p.mb-5  A continuación, se podrán observar acciones realizables durante la instalación de VirtualBox:
+      p.mb-5  Ahora es el momento de conocer sobre el alistamiento del sistema operativo a cargar en una máquina virtual:
 
       PasosA.color-acento-contenido.mb-5(tipo="n")
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Alistamiento del sistema operativo a cargar en una máquina virtual
-            p Es momento de abordar la virtualización de un sistema operativo Linux de distribución Ubuntu, por lo cual se debe realizar el proceso de descarga del mismo desde la pagina oficial www.ubuntu.com, ingresando  a la  sección de descargas.
+            p Es momento de abordar la virtualización de un sistema operativo Linux de distribución Ubuntu, por lo cual se debe realizar el proceso de descarga del mismo desde la página oficial <a href='https://ubuntu.com/' target='_blank'>www.ubuntu.com</a>, ingresando  a la  sección de descargas.
           .col-md-6
             figure
               img(src='@/assets/curso/t4-i2.jpg', alt='Texto que describa la imagen')
@@ -140,7 +140,7 @@
               img.h270(src='@/assets/curso/t4-i5.svg', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            p El tamaño del archivo puede variar dependiendo de la versión y tipo de distribución seleccionada.  El descargable se genera en una  extensión .iso y, para el caso particular de Ubuntu 20.04.2.0 para arquitectura de procesador amd y 64 bits, ocupa un espacio aproximado de 2.67GB. Todos los archivos .iso de sistemas operativos generalmente tienen un  tamaño considerable por lo que debe asegurarse de tener el espacio disponible para el proceso de descarga  del mismo, además de una buena conexión a Internet.
+            p El tamaño del archivo puede variar dependiendo de la versión y tipo de distribución seleccionada.  El descargable se genera en una  extensión .iso y, para el caso particular de Ubuntu 20.04.2.0 para arquitectura de procesador AMD y 64 bits, ocupa un espacio aproximado de 2.67GB. Todos los archivos .iso de sistemas operativos generalmente tienen un  tamaño considerable por lo que debe asegurarse de tener el espacio disponible para el proceso de descarga  del mismo, además de una buena conexión a Internet.
         
       p.mb-5  Para finalizar, conoce acerca de la configuración de la máquina virtual e instalación del sistema operativo de la máquina invitada. 
 

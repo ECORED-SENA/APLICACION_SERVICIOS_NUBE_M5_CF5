@@ -33,9 +33,8 @@
               li 
                 i.fa.fa-check
                 | Compatibilidad con la tecnología Intel VT-x, la cual permite ejecutar máquinas virtuales en forma nativa de la CPU host cuando esta tiene procesadores Intel.
-              li 
-                i.fa.fa-check
-                | En el material complementario, se encuentra la página oficial de descarga.
+              
+            p.mb-5 En el material complementario, se encuentra la página oficial de descarga.
         
           .col-md-4
             figure
@@ -94,7 +93,7 @@
                 | Es software libre y está disponible para diferentes tipos de sistemas operativos.
               li 
                 i.fa.fa-check
-                | No dispone de GUI pero se puede instalar mediante una extensión para Mac y Windows.
+                | No dispone de GUI, pero se puede instalar mediante una extensión para Mac y Windows.
               li 
                 i.fa.fa-check
                 | Soporta virtualización en tecnologías Intel y AMD
