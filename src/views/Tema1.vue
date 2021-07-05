@@ -33,7 +33,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         figcaption.customCaption.mb-2  Figura 1. Implementación de esquemas de virtualización.
-        .boxTable
+        .boxTable.mb-5
           .row.g-0
             .col-lg-5.light-yellow.d-flex.align-items-center
               .content-box.text-center
@@ -51,14 +51,14 @@
                   | Se pueden asignar más o menos recursos dinámicamente a una máquina dependiendo de la utilidad real requerida.
                 li 
                   i.fa.fa-check
-                  | Automatización de operaciones
+                  | Automatización de operaciones.
                 li 
                   i.fa.fa-check
                   | Reducción en la inversión de capital y gastos operativos asociados a la infraestructura de TI.
                 li 
                   i.fa.fa-check
                   | Reducción de tiempos de inactividad de los recursos.
-
+        
 
   
 </template>

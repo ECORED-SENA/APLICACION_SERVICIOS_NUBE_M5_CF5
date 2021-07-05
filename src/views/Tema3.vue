@@ -18,7 +18,7 @@
 
     #t3_1.titulo-segundo
       h2 Virtualización de servidores
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-2
       .py-4.py-md-5(titulo="VMware" :icono="require('@/assets/curso/t3-i2.svg')")
         .row
           .col-md-8.mb-4.mb-md-0.px-5
@@ -96,7 +96,7 @@
                 | No dispone de GUI, pero se puede instalar mediante una extensión para Mac y Windows.
               li 
                 i.fa.fa-check
-                | Soporta virtualización en tecnologías Intel y AMD
+                | Soporta virtualización en tecnologías Intel y AMD.
 
             p En el material complementario, se encuentra la página oficial de descarga.
 
@@ -132,7 +132,7 @@
           .col-md-4
             figure
               img(src='@/assets/curso/t3-i5.jpg', alt='Logotipo de parallels')
-
+    figcaption Fuente: SENA, 2021
 
 
 
