@@ -18,7 +18,7 @@
 
     #t3_1.titulo-segundo
       h2 Virtualización de servidores
-    TabsB.color-acento-contenido.mb-2
+    TabsB.color-acento-contenido.mb-2.customTabsx1
       .py-4.py-md-5(titulo="VMware" :icono="require('@/assets/curso/t3-i2.svg')")
         .row
           .col-md-8.mb-4.mb-md-0.px-5
