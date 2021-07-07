@@ -22,6 +22,7 @@
       .py-4.py-md-5(titulo="VMware" :icono="require('@/assets/curso/t3-i2.svg')")
         .row
           .col-md-8.mb-4.mb-md-0.px-5
+            .h3.d-block.d-sm-none VMware
             .h4 Características
             ul.lista-ul
               li 
@@ -43,6 +44,7 @@
       .py-4.py-md-5(titulo="Oracle VM VirtualBox" :icono="require('@/assets/curso/t3-i3.svg')")
         .row
           .col-md-8.px-5
+            .h3.d-block.d-sm-none Oracle VM VirtualBox
             .h4 Características
             ul.lista-ul.mb-5
               li 
@@ -64,6 +66,7 @@
       .py-4.py-md-5(titulo="Microsoft Hyper-V" :icono="require('@/assets/curso/t3-i4.svg')")
         .row
           .col-md-8.mb-4.mb-md-0.px-5
+            .h3.d-block.d-sm-none Microsoft Hyper-V
             .h4 Características
             ul.lista-ul.mb-5
               li 
@@ -86,6 +89,7 @@
       .py-4.py-md-5(titulo="Qemu" :icono="require('@/assets/curso/t3-i5.svg')")
         .row
           .col-md-8.px-5
+            .h3.d-block.d-sm-none Qemu
             .h4 Características
             ul.lista-ul.mb-5
               li 
@@ -108,6 +112,7 @@
       .py-4.py-md-5(titulo="Parallels" :icono="require('@/assets/curso/t3-i6.svg')")
         .row
           .col-md-8.mb-4.mb-md-0.px-5
+            .h3.d-block.d-sm-none Parallels
             .h4 Características
             ul.lista-ul.mb-5
               li 
