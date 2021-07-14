@@ -166,7 +166,8 @@ export default {
       texto:
         'Herramientas de virtualización de servidores: VMware. (s.f.). Download VMware Workstation Pro. VMware. ',
       tipo: 'Página web',
-      link: 'VMware. (s.f.). Download VMware Workstation Pro. VMware',
+      link:
+        'https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html',
     },
     {
       texto:
