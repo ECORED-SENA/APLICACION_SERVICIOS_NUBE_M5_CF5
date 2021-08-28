@@ -154,7 +154,7 @@
                 h3.mb-1 Configuración de la máquina virtual e instalación del sistema operativo de la máquina invitada
                 p.text-small Descarga la siguiente guía PDF.
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/M5_CF5_Configuración-de-la-maquina-virtual.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/M5_CF5_Configuracion-de-la-maquina-virtual.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
              
